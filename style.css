@@ -1,3 +1,5 @@
-* {
-  background: linear-gradient(magenta, cyan);
+body {
+	background: linear-gradient( rgb(0, 0, 102), cyan, rgb(0, 0, 102) );
+	margin: 0;
+	padding: 0;
 }
